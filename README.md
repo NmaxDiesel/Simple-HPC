@@ -6,3 +6,5 @@
 ## Background
 
 Dalam bidang Data Science, banyak sekali data yang perlu diproses dan dianalisis dengan cepat dan efisien. HPC memungkinkan pengguna untuk memproses data dengan cepat dan efisien dengan memanfaatkan teknologi paralel dan distribusi komputasi.
+
+Untuk memanfaatkan kemampuan HPC (High-Performance Computing) dalam melakukan tugas-tugas seperti pengolahan big data, machine learning, analisis data real-time, simulasi, prediksi, dan visualisasi data, diperlukan pemrograman paralel.
