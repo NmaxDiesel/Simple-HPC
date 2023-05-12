@@ -5,4 +5,4 @@
 
 ## Background
 
-Dalam bidang Data Science, banyak sekali data yang perlu diproses dan dianalisis dengan cepat dan efisien.
+Dalam bidang Data Science, banyak sekali data yang perlu diproses dan dianalisis dengan cepat dan efisien. HPC memungkinkan pengguna untuk memproses data dengan cepat dan efisien dengan memanfaatkan teknologi paralel dan distribusi komputasi.
