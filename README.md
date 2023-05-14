@@ -7,4 +7,6 @@
 
 Dalam bidang Data Science, banyak sekali data yang perlu diproses dan dianalisis dengan cepat dan efisien. HPC memungkinkan pengguna untuk memproses data dengan cepat dan efisien dengan memanfaatkan teknologi paralel dan distribusi komputasi.
 
-Untuk memanfaatkan kemampuan HPC (High-Performance Computing) dalam melakukan tugas-tugas seperti pengolahan big data, machine learning, analisis data real-time, simulasi, prediksi, dan visualisasi data, diperlukan pemrograman paralel. Pemrograman paralel adalah teknik pemrograman yang memungkinkan program untuk dijalankan secara simultan pada beberapa prosesor atau inti prosesor yang terdapat pada sebuah sistem HPC. Pemrograman paralel memungkinkan program untuk memanfaatkan kemampuan teknologi HPC secara maksimal dengan membagi tugas menjadi beberapa bagian kecil yang dapat dijalankan secara simultan pada beberapa prosesor. 
+Untuk memanfaatkan kemampuan HPC (High-Performance Computing) dalam melakukan tugas-tugas seperti pengolahan big data, machine learning, analisis data real-time, simulasi, prediksi, dan visualisasi data, diperlukan pemrograman paralel. Pemrograman paralel adalah teknik pemrograman yang memungkinkan program untuk dijalankan secara simultan pada beberapa prosesor atau inti prosesor yang terdapat pada sebuah sistem HPC. Pemrograman paralel memungkinkan program untuk memanfaatkan kemampuan teknologi HPC secara maksimal dengan membagi tugas menjadi beberapa bagian kecil yang dapat dijalankan secara simultan pada beberapa prosesor.
+
+Berikut ialah yang akan saya lakukan:
