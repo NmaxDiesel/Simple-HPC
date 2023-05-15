@@ -12,3 +12,4 @@ Untuk memanfaatkan kemampuan HPC (High-Performance Computing) dalam melakukan tu
 Berikut ialah hal yang akan saya lakukan:
 
 - Membangun algoritma decision tree
+- Melakukan proses perancangan secara sequential dan parallel
