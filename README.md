@@ -11,4 +11,4 @@ Untuk memanfaatkan kemampuan HPC (High-Performance Computing) dalam melakukan tu
 
 Berikut ialah hal yang akan saya lakukan:
 
-- strip membangun algoritma decison teree
+- Membangun algoritma decison teree
