@@ -13,3 +13,4 @@ Berikut ialah hal yang akan saya lakukan:
 
 - Membangun algoritma decision tree
 - Melakukan proses perancangan secara sequential dan parallel
+- Melakukan split, menghitung entropi dan mencari informasional gain
