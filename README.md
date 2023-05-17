@@ -25,6 +25,7 @@ Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 - Bagi dataset menjadi data latih dan data uji.
 
 2. Membangun Decision Tree Secara Sequential
+- Hitung entropi atau impuritas pada setiap node (simpul).
 
 3. Membangun Decision Tree Secara Paralel
 
