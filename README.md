@@ -28,6 +28,7 @@ Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 - Pilih metode splitting (pemisahan) yang akan digunakan (misalnya, splitting berdasarkan informasi gain atau gini index).
 - Hitung entropi atau impuritas pada setiap node (simpul).
 - Hitung informasi gain atau reduksi impuritas dari setiap atribut dan pilih atribut dengan informasi gain tertinggi sebagai node berikutnya.
+- Ulangi proses di atas pada setiap node hingga memperoleh decision tree yang lengkap.
 
 3. Membangun Decision Tree Secara Paralel
 
