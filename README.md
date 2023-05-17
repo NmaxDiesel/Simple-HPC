@@ -28,4 +28,4 @@ Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 4. Evaluasi Decision Tree
 
 
-Tahap-tahap di atas merupakan proses umum yang dilakukan dalam membangun decision tree.
+Tahap-tahap di atas merupakan proses umum yang dilakukan dalam membangun decision tree. Namun, ada beberapa variasi metode dan teknik yang dapat digunakan dalam masing-masing tahap tergantung pada jenis dan kompleksitas dari dataset yang digunakan.
