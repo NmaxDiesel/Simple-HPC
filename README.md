@@ -31,6 +31,7 @@ Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 - Ulangi proses di atas pada setiap node hingga memperoleh decision tree yang lengkap.
 
 3. Membangun Decision Tree Secara Paralel
+- Tentukan jumlah thread atau proses yang akan digunakan.
 
 4. Evaluasi Decision Tree
 
