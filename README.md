@@ -20,6 +20,7 @@ Berikut ialah hal yang akan saya lakukan:
 Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 
 1. Persiapan Data
+- Load dataset yang akan digunakan.
 
 2. Membangun Decision Tree Secara Sequential
 
