@@ -22,3 +22,5 @@ Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 1. Persiapan Data
 
 2. Membangun Decision Tree Secara Sequential
+
+3. Membangun Decision Tree Secara Paralel
