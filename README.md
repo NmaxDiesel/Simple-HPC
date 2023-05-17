@@ -18,3 +18,5 @@ Berikut ialah hal yang akan saya lakukan:
 ## Tahapan Pengerjaan
 
 Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
+
+1. Persiapan Data
