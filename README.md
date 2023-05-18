@@ -35,6 +35,7 @@ Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 - Bagi dataset menjadi beberapa subset yang akan diproses secara paralel.
 
 4. Evaluasi Decision Tree
+- Memprediksi label atau output dari dataset uji menggunakan decision tree yang telah dibangun.
 
 
 Tahap-tahap di atas merupakan proses umum yang dilakukan dalam membangun decision tree. Namun, ada beberapa variasi metode dan teknik yang dapat digunakan dalam masing-masing tahap tergantung pada jenis dan kompleksitas dari dataset yang digunakan.
