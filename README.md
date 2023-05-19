@@ -33,6 +33,7 @@ Berikut adalah tahap-tahap yang harus dilakukan dalam membangun decision tree:
 3. Membangun Decision Tree Secara Paralel
 - Tentukan jumlah thread atau proses yang akan digunakan.
 - Bagi dataset menjadi beberapa subset yang akan diproses secara paralel.
+- Jalankan proses splitting, perhitungan entropi, dan perhitungan informasi gain secara paralel pada masing-masing subset.
 
 4. Evaluasi Decision Tree
 - Memprediksi label atau output dari dataset uji menggunakan decision tree yang telah dibangun.
